@@ -1,3 +1,4 @@
+import { useState } from "react";
 import "./shows.css";
 import EpisodeList from "../episodes/EpisodeList.jsx";
 import EpisodeDetails from "../episodes/EpisodeDetails.jsx";
